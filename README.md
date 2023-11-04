@@ -1,5 +1,8 @@
 # The-Phone-Database
 
+Get the Dataset from Kaggle too:
+https://www.kaggle.com/datasets/sanjayramrr/gsm-arena-phones-2023-2016
+
 ## Overview
 
 Mobile Phone Price Prediction is a web application that helps users predict the prices of mobile phones based on various features and specifications. The application utilizes a dataset obtained through web scraping from GSMArena, a prominent source of phone specifications and information. Users can input features such as brand, release year, weight, operating system, storage size, screen size, battery capacity, RAM, and camera specifications to predict the price of a mobile phone.
