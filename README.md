@@ -20,8 +20,8 @@ Mobile Phone Price Prediction is a web application that helps users predict the 
 
 - **Clone the Repository:**
   ```
-  git clone https://github.com/yourusername/mobile-phone-price-prediction.git
-  cd mobile-phone-price-prediction
+  git clone https://github.com/rrsr28/The-Phone-Database
+  cd The-Phone-Database
   ```
 
 - **Install Dependencies:**
@@ -31,7 +31,7 @@ Mobile Phone Price Prediction is a web application that helps users predict the 
 
 - **Run the Application:**
   ```
-  streamlit run predict.py
+  streamlit run Home.py
   ```
 
 The application should open in your web browser.
@@ -59,7 +59,7 @@ The application should open in your web browser.
 
 1. Clone the repository to your local machine.
 2. Install the required Python dependencies using `pip` as mentioned in the "Getting Started" section.
-3. Run the Streamlit application using the `streamlit run predict.py` command.
+3. Run the Streamlit application using the `streamlit run Home.py` command.
 
 ## Usage
 
@@ -88,8 +88,6 @@ The Mobile Phone Price Prediction project is an open-source initiative that aims
 - The project includes a user-friendly web application developed using Streamlit, a Python framework for building data applications.
 - Data visualization is an integral part of the project, allowing users to gain insights from the dataset.
 - The project is accompanied by an "About" page that provides details about the webpage and references to sources of inspiration.
-
-For more details about the project, please refer to the [About the Webpage](about.py) and [About the Project](about.py) sections of the application.
 
 ## References
 
