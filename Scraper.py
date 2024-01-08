@@ -1,4 +1,3 @@
-# Program by Sanjay Ram RR
 # Web Scraping GSM Arena for phone specifications
 # From 15th Feb - 18th Feb
 
